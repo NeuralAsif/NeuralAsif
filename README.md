@@ -7,18 +7,18 @@
 * 🧠 Interested in Machine Learning, Deep Learning & Computer Vision
 * 📚 Currently learning Python & ML from scratch
 
-## 📈 Current Focus
+##  Current Focus
 
 * Learning Machine Learning fundamentals
 * Building small Python projects daily
 * Exploring datasets & starting Kaggle journey
 
 
-## 📂 Projects
+##  Projects
 
 * 🔹 Coming Soon...
 
-## 📫 Connect with Me
+##  Connect with Me
 
 * Emailb: asaduzzaman.asif00@gmail.com
 
