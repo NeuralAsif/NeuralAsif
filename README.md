@@ -1,11 +1,14 @@
 # Hi there 👋, I'm Asif
-A Computer Science and Engineering student aspiring to become an AI and Machine Learning Engineer. My interests lie in Machine Learning, Deep Learning, and Computer Vision. I am currently learning from scratch and continuously improving my skills by building projects and exploring real-world applications.
 
-## A Bit About Me
-🪙 A Coin collector
-🧵 Leather crafter
-✏️ Enjoy sketching (pencil portraits)
-⚡ Interested in basic electronics & DIY projects
-##  Connect with Me
-* Emailb: asaduzzaman.asif00@gmail.com
+CSE student aspiring to become an AI & Machine Learning Engineer. Passionate about Machine Learning, Deep Learning, and Computer Vision. Learning from scratch and building real-world projects.
 
+## About Me
+
+* 🪙 Coin collector
+* 🧵 Leather crafter
+* ✏️ Pencil sketching
+* ⚡ Electronics & DIY projects
+
+## Connect with Me
+
+* Email: [asaduzzaman.asif00@gmail.com](mailto:asaduzzaman.asif00@gmail.com)
