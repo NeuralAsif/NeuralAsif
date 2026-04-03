@@ -2,10 +2,10 @@
 
 CSE student aspiring to become an AI & Machine Learning Engineer. Passionate about Machine Learning, Deep Learning, and Computer Vision. Learning from scratch and building real-world projects.
 
-## About Me
-
-* 🪙 Coin collector
-* 🧵 Leather crafter
+## Beyond Profession
+These are my hobbies and side interests that I enjoy in my free time:
+* 🪙 Coin collecting
+* 🧵 Leather crafting
 * ✏️ Pencil sketching
 * ⚡ Electronics & DIY projects
 
