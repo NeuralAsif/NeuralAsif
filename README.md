@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋, I'm Asif
 
-<!--
-**NeuralAsif/NeuralAsif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  About Me
 
-Here are some ideas to get you started:
+* 🎓 CSE Student
+* 🤖 Aspiring AI & Machine Learning Engineer
+* 🧠 Interested in Machine Learning, Deep Learning & Computer Vision
+* 📚 Currently learning Python & ML from scratch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Current Focus
+
+* Learning Machine Learning fundamentals
+* Building small Python projects daily
+* Exploring datasets & starting Kaggle journey
+
+
+## 📂 Projects
+
+* 🔹 Coming Soon...
+
+## 📫 Connect with Me
+
+* Emailb: asaduzzaman.asif00@gmail.com
+
