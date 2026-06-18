@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Asif
+# Hi there , I'm Asif
 
 CSE student aspiring to become an AI & Machine Learning Engineer. Passionate about Machine Learning, Deep Learning, and Computer Vision. Learning from scratch and building real-world projects.
 
